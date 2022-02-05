@@ -27,11 +27,48 @@ Requirements
 
 The requirements for the course and the contribution of each towards the final grade are as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Two case write-up assignments (10% each) | 20% |
-| Group research paper | 40% |
-| Class participation | 40% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two case write-up assignments (10% each)
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group research paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Class Participation
 
@@ -44,21 +81,153 @@ For each class, I have provided a number of discussion questions. These are sugg
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Part I: An overview**{{< /td-colspan >}} ||
-| 1 | Introduction to the course |
-| 2 | The macro perspective: China and India |
-| 3 | Financing environment |
-| 4 | Business environment |
-| {{< td-colspan 2 >}}**Part II: Entrepreneurial dynamics**{{< /td-colspan >}} ||
-| 5 | Legend (Lenovo) |
-| 6 | Infosys |
-| 7 | Venture capital and private equity |
-| 8 | Diaspora in China and India |
-| {{< td-colspan 2 >}}**Part III: Foreign direct investment (FDI) controversies**{{< /td-colspan >}} ||
-| 9 | FDI opening |
-| 10 | Intellectual property rights (IPR) and pharmaceutical industry in India |
-| 11 | Multinational corporations (MNCs) and local competition |
-| 12 | Bottom of the pyramid dynamics in India |
-| 13 | Debating development models
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part I: An overview**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the course
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The macro perspective: China and India
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Financing environment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Business environment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part II: Entrepreneurial dynamics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Legend (Lenovo)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Infosys
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Venture capital and private equity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Diaspora in China and India
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part III: Foreign direct investment (FDI) controversies**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+FDI opening
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Intellectual property rights (IPR) and pharmaceutical industry in India
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Multinational corporations (MNCs) and local competition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Bottom of the pyramid dynamics in India
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Debating development models
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
